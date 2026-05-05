@@ -35,6 +35,4 @@ We believe in a secure, worldwide community.
 
 *Note: Eifora-prod contains advertisements.*
 
----
 
-#hosted Privacy Policy explicitly mentions the **18+ age gate** and the **non-withdrawable** nature of your coins.
