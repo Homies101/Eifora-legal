@@ -34,5 +34,18 @@ We believe in a secure, worldwide community.
 *   **Moderation**: We utilize advanced safety filters to ensure a respectful environment for everyone.
 
 *Note: Eifora-prod contains advertisements.*
+---
+
+## ⚖️ Privacy Policy for Eifora-prod
+**Effective Date: May 16, 2026**
+
+Eifora-prod respects your privacy. We collect minimal data (email and username) strictly to provide secure chat, group administration, and streaming services. We do not sell or share your data with third parties. To maintain high safety standards, our app is strictly for users aged 18 and older. For any privacy concerns, contact us via this repository.
+
+---
+
+## 📜 Terms and Conditions
+**Effective Date: May 16, 2026**
+
+By accessing or using Eifora-prod, you agree to comply with our community guidelines. Harassment, abusive behavior, illegal content, and automated bots are strictly prohibited. Group administrators retain the right to manage their communities, including closing groups or removing members to ensure user safety. The "Eifora Boutique" economy uses non-withdrawable coins intended solely for in-app enhancements. We reserve the right to moderate content and suspend accounts that violate these terms.
 
 
